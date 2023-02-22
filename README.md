@@ -7,7 +7,7 @@ Template to bootstrap and configure new projects maintained by TwinStake
 
 ## Instructions
 
-- Every project maintained by TwinStake should have a comprehensive and clear README file that serves as an index.
+- Every project maintained by Twinstake should have a comprehensive and clear README file that serves as an index.
   - Follow the [Standard Readme](https://github.com/RichardLitt/standard-readme/blob/master/spec.md) specification.
   - Read [Art of README](https://github.com/hackergrrl/art-of-readme).
   - The other sections of this file can be used as a template to bootstrap a new repository.
@@ -49,11 +49,9 @@ Add the name of at least two maintainers. For critical projects, aim at three.
 
 Projects that have only one maintainer should be demoted from the collective and be moved in github to the personal account of the maintainer.
 
-For these template, the maintainers are:
+The maintainer of this template is:
 
-- [@matilote](https://github.com/matilote)
-- [@nickkjolsing](https://github.com/nickkjolsing)
-- [@gehlotanish](https://github.com/gehlotanish)
+- [@twinstake](https://github.com/twinstake)
 
 - If you have a question, feedback or a bug report for this project, please open a new Issue
 - We just ask you to be nice. Read our [code of conduct](CODE_OF_CONDUCT.md).
