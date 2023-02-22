@@ -53,8 +53,8 @@ The maintainer of this template is:
 
 - [@twinstake](https://github.com/twinstake)
 
-- If you have a question, feedback or a bug report for this project, please open a new Issue
-- We just ask you to be nice. Read our [code of conduct](CODE_OF_CONDUCT.md).
+If you have a question, feedback or a bug report for this project, please open a new Issue
+Read our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Security
 
